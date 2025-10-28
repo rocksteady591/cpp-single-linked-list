@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="singlelinkedlist/singlelinkedlist.vcxproj" Id="3a029998-fbf1-4e6b-899d-6e3da2b38837" />
+</Solution>
