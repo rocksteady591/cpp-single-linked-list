@@ -184,6 +184,9 @@
   <ItemGroup>
     <ClCompile Include="singlelinkedlist.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="single_linked_list.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
